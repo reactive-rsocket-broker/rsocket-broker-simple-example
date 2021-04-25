@@ -1,0 +1,2 @@
+### get user info
+GET http://localhost:8181/user/1
